@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/xh011/sl8541e_1h10
+DEVICE_PATH := device/SPRD/sl8541e_1h10
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
